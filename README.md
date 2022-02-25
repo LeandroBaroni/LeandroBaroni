@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Hi, I'm a brasilian, trying to be a dev.
 
 <!--
 **LeandroBaroni/LeandroBaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
