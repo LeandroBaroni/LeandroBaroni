@@ -59,7 +59,5 @@ Estudos e projetos em Java
 
 📧 Email: leandro.baroni.dev@gmail.com
 
-🌐 Localização: Presidente Prudente, SP
-
 ### 🤝 Vamos conectar!
 Estou sempre interessado em discutir sobre tecnologia e trocar experiências. Sinta-se à vontade para entrar em contato!
