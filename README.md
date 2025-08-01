@@ -33,8 +33,11 @@ Projetos full-stack JavaScript/TypeScript
 Estudos e projetos em Java
 
 📊 Estatísticas GitHub
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leandrobaroni&show_icons=true&theme=radical&locale=pt-br)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBaroni&layout=compact&theme=radical&locale=pt-br)
+
 🌱 Atualmente
 
 📚 Estudando Java e suas tecnologias
