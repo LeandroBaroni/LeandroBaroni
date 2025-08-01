@@ -18,11 +18,11 @@ Node.js - Runtime JavaScript para backend
 
 Express.js - Framework web minimalista e flexível
 
-NestJS - Framework Node.js progressivo e modular
-
 ### Em Aprendizado
 
 Java - Expandindo conhecimentos para desenvolvimento enterprise
+
+NestJS - Framework Node.js progressivo e modular
 
 ## 🎓 Formação
 
