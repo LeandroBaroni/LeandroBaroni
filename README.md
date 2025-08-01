@@ -4,7 +4,7 @@
 Desenvolvedor apaixonado por tecnologia, formado em Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente. Atualmente cursando Pós-graduação em Desenvolvimento de Aplicações em Java, sempre em busca de novos desafios e oportunidades de crescimento.
 
 ## 🚀 Tecnologias & Ferramentas
-Frontend
+### Frontend
 
 JavaScript/TypeScript - Linguagens principais para desenvolvimento web
 
@@ -12,7 +12,7 @@ Angular - Framework para aplicações web robustas
 
 Ionic - Desenvolvimento de aplicações mobile híbridas
 
-Backend
+### Backend
 
 Node.js - Runtime JavaScript para backend
 
@@ -20,7 +20,7 @@ Express.js - Framework web minimalista e flexível
 
 NestJS - Framework Node.js progressivo e modular
 
-Em Aprendizado
+### Em Aprendizado
 
 Java - Expandindo conhecimentos para desenvolvimento enterprise
 
