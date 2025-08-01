@@ -47,15 +47,15 @@ Estudos e projetos em Java
 
 ### 🌱 Atualmente
 
-#### 📚 Estudando Java e suas tecnologias
-#### 🎯 Focado em desenvolvimento full-stack
-#### 💡 Sempre aberto a novos projetos e colaborações
+📚 Estudando Java e suas tecnologias
+🎯 Focado em desenvolvimento full-stack
+💡 Sempre aberto a novos projetos e colaborações
 
 ### 📫 Como me encontrar
 
-#### 💼 LinkedIn: linkedin.com/in/leandro-baroni-06269118a
-#### 📧 Email: leandro.baroni.dev@gmail.com
-#### 🌐 Localização: Presidente Prudente, SP
+💼 LinkedIn: linkedin.com/in/leandro-baroni-06269118a
+📧 Email: leandro.baroni.dev@gmail.com
+🌐 Localização: Presidente Prudente, SP
 
 ### 🤝 Vamos conectar!
 Estou sempre interessado em discutir sobre tecnologia e trocar experiências. Sinta-se à vontade para entrar em contato!
